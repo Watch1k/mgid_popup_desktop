@@ -236,7 +236,11 @@ body {
     font-size: 20px;
     color: #fff;
     text-decoration: none;
-    background-color: #c20509; }
+    background-color: #c20509;
+    -webkit-appearance: none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0; }
     .mgid_tabsPopup-panel .mgid_Popup-btn:hover {
       background-color: #db0005; }
 
