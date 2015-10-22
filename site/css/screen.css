@@ -309,7 +309,11 @@ body {
     padding: 10px 0;
     font-size: 20px;
     color: #fff;
-    background-color: #c20509; }
+    background-color: #c20509;
+    -webkit-appearance: none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0; }
     .form_field .mgid_form-btn:hover {
       background-color: #db0005; }
 
